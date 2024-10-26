@@ -170,8 +170,8 @@ EMAIL_HOST_PASSWORD = 'xyz' # host email password required
 EMAIL_RECEIVING_USER = ['to@gmail.com'] # email on which you will receive messages sent from website
 
 
-AWS_ACCESS_KEY_ID = 'AKIA4SDNVYA7KXNEHR53' 
-AWS_SECRET_ACCESS_KEY = 'RL3/pkfp4JnYcowrFHqPtEAlNme9I/PyynI69G5C' 
+AWS_ACCESS_KEY_ID = '' 
+AWS_SECRET_ACCESS_KEY = '' 
 
 AWS_STORAGE_BUCKET_NAME = 'insurance-management-bucket' # - Enter your S3 bucket name HERE
 
